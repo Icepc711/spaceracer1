@@ -1294,3 +1294,47 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.27-19.40.29:295][  1]AssetCheck: /Game/VehicleTemplate/Maps/Lvl_VehicleBasic Validating asset
 [2026.03.27-19.40.29:325][  1]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/emues/Desktop/spaceracer1/SpaceRacer1/Saved/SourceControl/UncontrolledChangelists.json
 [2026.03.27-19.40.43:171][129]LogDerivedDataCache: C:/Users/emues/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.27-19.41.40:882][676]LogSlate: Window 'Fab' being destroyed
+[2026.03.27-19.41.40:901][676]LogSlate: Window 'Fab' being destroyed
+[2026.03.27-19.41.42:389][716]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2026.03.27-19.41.42:389][716]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/91421509-0588-4da2-bc17-595e9670d6ff.
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: ================================================
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: Total job queries 2,581, among them cache hits 632 (24.49%), DDC hits 1,841 (71.33%), Duplicates 103 (3.99%)
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: Tracking 1,846 distinct input hashes that result in 1,156 distinct outputs (62.62%)
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: RAM used: 11.76 MiB of 819.20 MiB budget. Usage: 1.44%
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.03.27-19.41.51:055][742]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.12 s
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 1.56 s
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 1.67
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Shader code size: total 43.117 KiB, numShaders 5, average 8.623 KiB, min 6.211 KiB, max 12.641 KiB
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.68 s
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Average processing rate: 2.98 jobs/sec
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Total thread time: 2.83 s
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Total thread preprocess time: 32.951 s
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Percentage time preprocessing: 1164.50%
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Effective parallelization: 1.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.168871
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 35.00% of total time (compiled    1 times, average 0.99 sec, max 0.99 sec, min 0.99 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.34% of total time (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.12% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.88% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.67% of total time (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: === Material stats ===
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Materials Translated:    148
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: ================================================
