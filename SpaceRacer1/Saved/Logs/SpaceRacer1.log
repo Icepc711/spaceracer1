@@ -1338,3 +1338,20 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2026.03.27-19.41.51:056][742]LogShaderCompilers: Display: ================================================
+[2026.03.27-19.44.47:087][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 358.858459
+[2026.03.27-19.44.48:088][273]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-19.44.48:088][273]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 359.524597, Update Interval: 335.831177
+[2026.03.27-19.45.04:093][321]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.03.27-19.45.04:093][321]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Developers/emues/Collections/' because it could not be accessed. Aborting watch request...
+[2026.03.27-19.45.04:425][322]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.03.27-19.45.21:545][562]Cmd: DELETE
+[2026.03.27-19.45.21:556][562]Cmd: ACTOR DELETE
+[2026.03.27-19.45.21:566][562]LogStreaming: Display: FlushAsyncLoading(383): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-19.45.21:570][562]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.27-19.45.21:589][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.27-19.45.21:591][562]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.03.27-19.45.23:119][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-19.45.23:174][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.27-19.45.23:190][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.27-19.45.23:205][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.27-19.45.23:217][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.921 ms (total: 167.521 ms)
