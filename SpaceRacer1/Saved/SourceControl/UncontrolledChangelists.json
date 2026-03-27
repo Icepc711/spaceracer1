@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/FL/6UJ6DU8RPESLHCBHLY09NA.uasset"
+				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/0/FL/6UJ6DU8RPESLHCBHLY09NA.uasset",
+				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Rooftop_5_HD_JFG_-_PBR_-_REV_2025/T_Rooftop_HD_5_JFG.uasset",
+				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Rooftop_5_HD_JFG_-_PBR_-_REV_2025/T_Rooftop_HD_5_JFG_baseColor.uasset",
+				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Rooftop_5_HD_JFG_-_PBR_-_REV_2025/T_Rooftop_HD_5_JFG_emissive.uasset",
+				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Rooftop_5_HD_JFG_-_PBR_-_REV_2025/T_Rooftop_HD_5_JFG_metallic.uasset",
+				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Rooftop_5_HD_JFG_-_PBR_-_REV_2025/T_Rooftop_HD_5_JFG_normal.uasset",
+				"C:/Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Rooftop_5_HD_JFG_-_PBR_-_REV_2025/sm_rooftop_5_hd_jfg_scene_texturesattached.uasset"
 			]
 		}
 	]
