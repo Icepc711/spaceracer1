@@ -1169,3 +1169,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.27-19.52.37:733][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.27-19.52.37:733][501]AssetCheck: /Game/VehicleTemplate/Maps/Lvl_VehicleBasic Validating asset
 [2026.03.27-19.52.37:755][501]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/emues/Desktop/spaceracer1/SpaceRacer1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-19.53.17:756][844]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.27-19.53.17:756][844]LogStreaming: Display: FlushAsyncLoading(371): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-19.53.17:822][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.27-19.53.18:938][844]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.27-19.53.18:977][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.27-19.53.18:994][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.27-19.53.19:010][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.27-19.53.20:408][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-19.53.20:447][951]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/E3/URKYL4RK553C9RVTJVBNLP
+[2026.03.27-19.53.20:448][951]LogSavePackage: Moving '../../../../../../Users/emues/Desktop/spaceracer1/SpaceRacer1/Saved/URKYL4RK553C9RVTJVBNLP5F1F3ABA49C8C657C02659B5B65B68A8.tmp' to '../../../../../../Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/9/E3/URKYL4RK553C9RVTJVBNLP.uasset'
+[2026.03.27-19.53.20:458][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.915 ms (total: 104.095 ms)
+[2026.03.27-19.53.20:490][951]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-19.53.20:490][951]LogContentValidation: Enabled validators:
+[2026.03.27-19.53.20:490][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-19.53.20:490][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-19.53.20:490][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-19.53.20:490][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-19.53.20:490][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-19.53.20:490][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-19.53.20:490][951]AssetCheck: /Game/VehicleTemplate/Maps/Lvl_VehicleBasic Validating asset
