@@ -22,3 +22,4 @@ C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_
 [0327/153959.240:ERROR:gl_utils.cc(314)] [.WebGL-0000046A7023AD80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
 [0327/153959.248:ERROR:gl_utils.cc(314)] [.WebGL-0000046A7023AD80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
 [0327/153959.248:ERROR:gl_utils.cc(314)] [.WebGL-0000046A7023AD80] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[0327/154056.392:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
