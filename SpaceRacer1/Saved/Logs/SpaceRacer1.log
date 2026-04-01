@@ -1533,3 +1533,143 @@ Script Stack (0 frames) :
 [2026.04.01-14.39.12:865][268]LogEditorActor: Deleted Actor: SkeletalMeshActor
 [2026.04.01-14.39.12:883][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2026.04.01-14.39.12:887][268]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: ================================================
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Total job queries 640, among them cache hits 107 (16.72%), DDC hits 398 (62.19%), Duplicates 73 (11.41%)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Tracking 460 distinct input hashes that result in 320 distinct outputs (69.57%)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: RAM used: 4.03 MiB of 1.60 GiB budget. Usage: 0.25%
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Shaders Compiled: 62
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Jobs assigned 62, completed 62 (100%)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Average time worker was idle: 133.84 s
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Time job spent in pending queue: average 0.40 s, longest 2.17 s
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 2.29 s
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 3.34
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Shader code size: total 684.588 KiB, numShaders 63, average 10.866 KiB, min 2.727 KiB, max 34.016 KiB
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.14 s
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Jobs were issued in 62 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Average processing rate: 6.78 jobs/sec
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Total thread time: 38.853 s
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Total thread preprocess time: 7.6 s
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Percentage time preprocessing: 19.56%
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Effective parallelization: 4.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.354310
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 2.13 sec, max 2.21 sec, min 2.07 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.86 sec, max 1.89 sec, min 1.82 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.60 sec, max 1.62 sec, min 1.57 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.89 sec, max 1.25 sec, min 0.69 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 16.45% of total time (compiled    3 times, average 2.13 sec, max 2.21 sec, min 2.07 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                                 FLumenCardCS - 14.38% of total time (compiled    3 times, average 1.86 sec, max 1.89 sec, min 1.82 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.68% of total time (compiled    6 times, average 0.89 sec, max 1.25 sec, min 0.69 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.61% of total time (compiled   12 times, average 0.41 sec, max 0.57 sec, min 0.31 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.21% of total time (compiled    2 times, average 1.60 sec, max 1.62 sec, min 1.57 sec)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: === Material stats ===
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Materials Translated:    164
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Material Translation Only: 0.03 s (38%)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: Material Cache Hits: 17 (10%)
+[2026.04.01-14.40.38:976][655]LogShaderCompilers: Display: ================================================
+[2026.04.01-14.40.55:906][619]LogSlate: Window 'Message' being destroyed
+[2026.04.01-14.40.55:912][619]Message dialog closed, result: Cancel, title: Message, text: This import will override asset 'SkeletalMesh /Game/Our_Vehicle/Ice_Car.Ice_Car', Do you want to convert this import to a re-import?
+[2026.04.01-14.40.55:913][619]LogInterchangeEngine: Display: User cancel import of file [C:/Users/pchutipa/Desktop/Ice_Car.fbx].
+[2026.04.01-14.40.58:233][856]LogPSOHitching: Encountered 400 PSO creation hitches so far (147 graphics, 253 compute). 0 of them were precached.
+[2026.04.01-14.41.10:032][882]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Our_Vehicle/Ice_Car_Skeleton.Ice_Car_Skeleton
+[2026.04.01-14.41.10:032][882]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.04.01-14.41.10:055][882]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.41.10:276][882]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.01-14.41.18:609][565]Cmd: TRANSACTION UNDO
+[2026.04.01-14.41.18:609][565]LogEditorTransaction: Undo Rotate Bone
+[2026.04.01-14.41.18:874][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.41.18:875][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.41.53:553][195]Cmd: TRANSACTION UNDO
+[2026.04.01-14.41.53:553][195]LogEditorTransaction: Undo Rotate Bone
+[2026.04.01-14.41.53:825][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.41.53:826][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.41.53:956][196]Cmd: TRANSACTION UNDO
+[2026.04.01-14.41.53:956][196]LogEditorTransaction: Undo Rotate Bone
+[2026.04.01-14.41.54:222][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.41.54:223][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.42.07:441][454]Cmd: TRANSACTION UNDO
+[2026.04.01-14.42.07:441][454]LogEditorTransaction: Undo Rotate Bone
+[2026.04.01-14.42.07:710][454]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.42.07:711][454]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.42.38:340][745]Cmd: TRANSACTION UNDO
+[2026.04.01-14.42.38:340][745]LogEditorTransaction: Undo Rotate Bone
+[2026.04.01-14.42.38:608][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.42.38:609][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.42.38:831][748]Cmd: TRANSACTION UNDO
+[2026.04.01-14.42.38:831][748]LogEditorTransaction: Undo Rotate Bone
+[2026.04.01-14.42.39:091][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.42.39:092][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.04.01-14.42.49:376][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1394.182373
+[2026.04.01-14.42.49:508][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.01-14.42.49:508][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1394.291504, Update Interval: 349.059113
+[2026.04.01-14.45.32:810][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-14.45.32:864][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Our_Vehicle/Ice_Car_Skeleton] ([1] browsable assets)...
+[2026.04.01-14.45.32:960][169]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Our_Vehicle/Ice_Car_Skeleton.Ice_Car_Skeleton]
+[2026.04.01-14.45.32:960][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Our_Vehicle/Ice_Car_Skeleton]
+[2026.04.01-14.45.32:960][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Our_Vehicle/Ice_Car_Skeleton" FILE="../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/Ice_Car_Skeleton.uasset" SILENT=true
+[2026.04.01-14.45.32:963][169]LogSavePackage: Moving output files for package: /Game/Our_Vehicle/Ice_Car_Skeleton
+[2026.04.01-14.45.32:963][169]LogSavePackage: Moving '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/Ice_Car_SkeletonF0748E5845CB5402300DBE80981F7426.tmp' to '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/Ice_Car_Skeleton.uasset'
+[2026.04.01-14.45.32:972][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.351 ms
+[2026.04.01-14.45.33:029][169]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.01-14.45.33:029][169]LogContentValidation: Enabled validators:
+[2026.04.01-14.45.33:029][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-14.45.33:029][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-14.45.33:029][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-14.45.33:029][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-14.45.33:029][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-14.45.33:029][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-14.45.33:029][169]AssetCheck: /Game/Our_Vehicle/Ice_Car_Skeleton Validating asset
+[2026.04.01-14.45.33:044][169]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.01-14.45.33:968][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.04.01-14.45.33:973][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.01-14.45.34:015][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SpacerMap" FILE="../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Maps/SpacerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.01-14.45.34:039][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.04.01-14.45.34:279][259]LogSavePackage: Moving output files for package: /Game/Maps/SpacerMap
+[2026.04.01-14.45.34:279][259]LogSavePackage: Moving '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/SpacerMap766FB09A415F0AF1DB6E7F8096D15049.tmp' to '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Maps/SpacerMap.umap'
+[2026.04.01-14.45.34:285][259]LogFileHelpers: Saving map 'SpacerMap' took 0.271
+[2026.04.01-14.45.34:285][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Our_Vehicle/blinn1] ([1] browsable assets)...
+[2026.04.01-14.45.34:293][259]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Our_Vehicle/blinn1.blinn1]
+[2026.04.01-14.45.34:293][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Our_Vehicle/blinn1]
+[2026.04.01-14.45.34:293][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Our_Vehicle/blinn1" FILE="../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/blinn1.uasset" SILENT=true
+[2026.04.01-14.45.34:303][259]LogSavePackage: Moving output files for package: /Game/Our_Vehicle/blinn1
+[2026.04.01-14.45.34:303][259]LogSavePackage: Moving '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/blinn1D014EF7F413478FC8BD0C6B9CC0B2ECF.tmp' to '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/blinn1.uasset'
+[2026.04.01-14.45.34:303][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Our_Vehicle/blinn2] ([1] browsable assets)...
+[2026.04.01-14.45.34:309][259]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Our_Vehicle/blinn2.blinn2]
+[2026.04.01-14.45.34:309][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Our_Vehicle/blinn2]
+[2026.04.01-14.45.34:309][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Our_Vehicle/blinn2" FILE="../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/blinn2.uasset" SILENT=true
+[2026.04.01-14.45.34:319][259]LogSavePackage: Moving output files for package: /Game/Our_Vehicle/blinn2
+[2026.04.01-14.45.34:319][259]LogSavePackage: Moving '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/blinn2FAAF081C459CF47E181578A1979F38BE.tmp' to '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/blinn2.uasset'
+[2026.04.01-14.45.34:320][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Our_Vehicle/Ice_Car_PhysicsAsset] ([1] browsable assets)...
+[2026.04.01-14.45.34:326][259]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Our_Vehicle/Ice_Car_PhysicsAsset.Ice_Car_PhysicsAsset]
+[2026.04.01-14.45.34:326][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Our_Vehicle/Ice_Car_PhysicsAsset]
+[2026.04.01-14.45.34:326][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Our_Vehicle/Ice_Car_PhysicsAsset" FILE="../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/Ice_Car_PhysicsAsset.uasset" SILENT=true
+[2026.04.01-14.45.34:343][259]LogSavePackage: Moving output files for package: /Game/Our_Vehicle/Ice_Car_PhysicsAsset
+[2026.04.01-14.45.34:343][259]LogSavePackage: Moving '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/Ice_Car_PhysicsAssetC95392CC427B9EE7FC3341A626C70BA3.tmp' to '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/Ice_Car_PhysicsAsset.uasset'
+[2026.04.01-14.45.34:346][259]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Our_Vehicle/Ice_Car] ([1] browsable assets)...
+[2026.04.01-14.45.34:352][259]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Our_Vehicle/Ice_Car.Ice_Car]
+[2026.04.01-14.45.34:352][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Our_Vehicle/Ice_Car]
+[2026.04.01-14.45.34:352][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Our_Vehicle/Ice_Car" FILE="../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/Ice_Car.uasset" SILENT=true
+[2026.04.01-14.45.34:365][259]LogSavePackage: Moving output files for package: /Game/Our_Vehicle/Ice_Car
+[2026.04.01-14.45.34:365][259]LogSavePackage: Moving '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/Ice_CarD52CC46E4472F9498259A394074E0775.tmp' to '../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Content/Our_Vehicle/Ice_Car.uasset'
+[2026.04.01-14.45.34:373][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 400.478 ms (total: 563.830 ms)
+[2026.04.01-14.45.34:429][259]LogContentValidation: Display: Starting to validate 5 assets
+[2026.04.01-14.45.34:429][259]LogContentValidation: Enabled validators:
+[2026.04.01-14.45.34:429][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.01-14.45.34:429][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.01-14.45.34:429][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.01-14.45.34:429][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.01-14.45.34:429][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.01-14.45.34:429][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.01-14.45.34:430][259]AssetCheck: /Game/Maps/SpacerMap Validating asset
+[2026.04.01-14.45.34:430][259]AssetCheck: /Game/Our_Vehicle/blinn1 Validating asset
+[2026.04.01-14.45.34:430][259]AssetCheck: /Game/Our_Vehicle/blinn2 Validating asset
+[2026.04.01-14.45.34:430][259]AssetCheck: /Game/Our_Vehicle/Ice_Car_PhysicsAsset Validating asset
+[2026.04.01-14.45.34:430][259]AssetCheck: /Game/Our_Vehicle/Ice_Car Validating asset
+[2026.04.01-14.45.34:444][259]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pchutipa/Desktop/spaceracer1/SpaceRacer1/Saved/SourceControl/UncontrolledChangelists.json
