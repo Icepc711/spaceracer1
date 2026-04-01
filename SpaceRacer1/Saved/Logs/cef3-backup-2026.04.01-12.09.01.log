@@ -1,0 +1,4 @@
+[0401/080855.212:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0401/080901.149:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0401/080901.615:WARNING:storage_block-inl.h(146)] Failed data load.
+[0401/080901.941:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)

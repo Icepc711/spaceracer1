@@ -1,2 +1,3 @@
-2026/04/01-08:08:55.515 6034 Creating DB C:/Users/patri/OneDrive/Documents/Unreal Projects/spaceracer1/SpaceRacer1/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/01-08:08:55.536 6034 Reusing MANIFEST C:/Users/patri/OneDrive/Documents/Unreal Projects/spaceracer1/SpaceRacer1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/01-10:14:53.618 6c50 Reusing MANIFEST C:/Users/patri/OneDrive/Documents/Unreal Projects/spaceracer1/SpaceRacer1/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/01-10:14:53.642 6c50 Recovering log #3
+2026/04/01-10:14:53.650 6c50 Reusing old log C:/Users/patri/OneDrive/Documents/Unreal Projects/spaceracer1/SpaceRacer1/Saved/webcache_4430\Local Storage\leveldb/000003.log 
