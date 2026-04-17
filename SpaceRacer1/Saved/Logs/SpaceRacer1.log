@@ -2028,3 +2028,151 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.04.17-19.18.04:557][271]LogPlayLevel: Display: Destroying online subsystem :Context_16
 [2026.04.17-19.18.07:206][387]LogSlate: Window 'Message Log' being destroyed
 [2026.04.17-19.18.07:254][387]LogSlate: Window 'Message Log' being destroyed
+[2026.04.17-19.20.47:929][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.17-19.20.47:937][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.17-19.20.47:987][ 85]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2026.04.17-19.20.47:990][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.04.17-19.20.48:013][ 86]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LVL_SpacerMap
+[2026.04.17-19.20.48:021][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007914s)
+[2026.04.17-19.20.48:021][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LVL_SpacerMap.LVL_SpacerMap to /Game/Maps/UEDPIE_0_LVL_SpacerMap.LVL_SpacerMap (0.007997s)
+[2026.04.17-19.20.48:048][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.17-19.20.48:049][ 86]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_SpacerMap
+[2026.04.17-19.20.48:051][ 86]LogPlayLevel: PIE: World Init took: (0.002000s)
+[2026.04.17-19.20.48:053][ 86]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.04.17-19.20.48:053][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.17-19.20.48:053][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.17-19.20.48:053][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.17-19.20.48:053][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.17-19.20.48:053][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.17-19.20.48:053][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.17-19.20.48:053][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.17-19.20.48:053][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.17-19.20.48:053][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.17-19.20.48:053][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.17-19.20.48:053][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.17-19.20.48:055][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.17-19.20.48:078][ 86]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.04.17-19.20.48:078][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.17-19.20.48:078][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.17-19.20.48:078][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.17-19.20.48:079][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.04.17-19.20.48:079][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.04.17-19.20.48:082][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.04.17-19.20.48:082][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.04.17-19.20.48:082][ 86]LogInit: FAudioDevice initialized with ID 14.
+[2026.04.17-19.20.48:082][ 86]LogAudio: Display: Audio Device (ID: 14) registered with world 'LVL_SpacerMap'.
+[2026.04.17-19.20.48:082][ 86]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.17-19.20.48:085][ 86]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2026.04.17-19.20.48:088][ 86]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LVL_SpacerMap.LVL_SpacerMap up for play (max tick rate 0) at 2026.04.17-15.20.48
+[2026.04.17-19.20.48:088][ 86]LogWorld: Bringing up level for play took: 0.002276
+[2026.04.17-19.20.48:090][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Vehicle Adv Player Controller Blueprint:  BP_VehicleAdvPlayerController
+[2026.04.17-19.20.48:090][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Vehicle Adv Player Controller Blueprint:  BP_VehicleAdvPlayerController
+[2026.04.17-19.20.48:090][ 86]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_VehicleAdvPlayerController_C_1 has no Player attached.
+[2026.04.17-19.20.48:090][ 86]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property VehicleHud in BP_VehicleAdvPlayerController_C". Node:  Add to Player Screen Graph:  EventGraph Function:  Execute Ubergraph BP Vehicle Adv Player Controller Blueprint:  BP_VehicleAdvPlayerController
+[2026.04.17-19.20.48:091][ 86]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2026.04.17-19.20.48:091][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=92.000] for [BP_VehicleAdvSportsCar_C]
+[2026.04.17-19.20.48:092][ 86]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_VehicleAdvSportsCar_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 92.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.17-19.20.48:093][ 86]PIE: Server logged in
+[2026.04.17-19.20.48:095][ 86]PIE: Play in editor total start time 0.158 seconds.
+[2026.04.17-19.20.58:028][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.17-19.20.58:028][791]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LVL_SpacerMap
+[2026.04.17-19.20.58:028][791]LogWorld: UWorld::CleanupWorld for LVL_SpacerMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.17-19.20.58:029][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.17-19.20.58:031][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.17-19.20.58:035][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.17-19.20.58:062][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.17-19.20.58:062][791]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.04.17-19.20.58:062][791]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.04.17-19.20.58:064][791]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.04.17-19.20.58:073][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.17-19.20.58:195][792]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.04.17-19.22.53:062][ 88]LogSlate: Window 'Message Log' being destroyed
+[2026.04.17-19.22.53:106][ 88]LogSlate: Window 'Message Log' being destroyed
+[2026.04.17-19.22.54:595][173]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.17-19.22.54:602][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.17-19.22.54:602][173]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2026.04.17-19.22.54:606][173]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.04.17-19.22.54:651][174]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LVL_SpacerMap
+[2026.04.17-19.22.54:657][174]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007160s)
+[2026.04.17-19.22.54:657][174]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LVL_SpacerMap.LVL_SpacerMap to /Game/Maps/UEDPIE_0_LVL_SpacerMap.LVL_SpacerMap (0.007221s)
+[2026.04.17-19.22.54:685][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.04.17-19.22.54:687][174]LogChaosDD: Creating Chaos Debug Draw Scene for world LVL_SpacerMap
+[2026.04.17-19.22.54:689][174]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2026.04.17-19.22.54:689][174]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.04.17-19.22.54:689][174]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.17-19.22.54:689][174]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.17-19.22.54:689][174]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.17-19.22.54:689][174]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.17-19.22.54:689][174]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.17-19.22.54:689][174]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.17-19.22.54:689][174]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.17-19.22.54:689][174]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.17-19.22.54:689][174]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.17-19.22.54:689][174]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.17-19.22.54:689][174]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.17-19.22.54:691][174]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.17-19.22.54:716][174]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2026.04.17-19.22.54:716][174]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.17-19.22.54:716][174]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.17-19.22.54:716][174]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.17-19.22.54:717][174]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.04.17-19.22.54:717][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.04.17-19.22.54:719][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.04.17-19.22.54:719][174]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.04.17-19.22.54:719][174]LogInit: FAudioDevice initialized with ID 15.
+[2026.04.17-19.22.54:719][174]LogAudio: Display: Audio Device (ID: 15) registered with world 'LVL_SpacerMap'.
+[2026.04.17-19.22.54:719][174]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.17-19.22.54:724][174]LogLoad: Game class is 'BP_VehicleAdvGameMode_C'
+[2026.04.17-19.22.54:725][174]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LVL_SpacerMap.LVL_SpacerMap up for play (max tick rate 0) at 2026.04.17-15.22.54
+[2026.04.17-19.22.54:725][174]LogWorld: Bringing up level for play took: 0.002138
+[2026.04.17-19.22.54:728][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue_1 in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Vehicle Adv Player Controller Blueprint:  BP_VehicleAdvPlayerController
+[2026.04.17-19.22.54:728][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property CallFunc_GetLocalPlayerSubsystem_ReturnValue in not an UClass". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP Vehicle Adv Player Controller Blueprint:  BP_VehicleAdvPlayerController
+[2026.04.17-19.22.54:728][174]PIE: Error: CreateWidget cannot be used on Player Controller with no attached player. BP_VehicleAdvPlayerController_C_1 has no Player attached.
+[2026.04.17-19.22.54:728][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property VehicleHud in BP_VehicleAdvPlayerController_C". Node:  Add to Player Screen Graph:  EventGraph Function:  Execute Ubergraph BP Vehicle Adv Player Controller Blueprint:  BP_VehicleAdvPlayerController
+[2026.04.17-19.22.54:730][174]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2026.04.17-19.22.54:730][174]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=92.000] for [BP_VehicleAdvSportsCar_C]
+[2026.04.17-19.22.54:730][174]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_VehicleAdvSportsCar_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 92.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.04.17-19.22.54:731][174]PIE: Server logged in
+[2026.04.17-19.22.54:735][174]PIE: Play in editor total start time 0.132 seconds.
+[2026.04.17-19.23.04:818][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.17-19.23.04:818][892]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LVL_SpacerMap
+[2026.04.17-19.23.04:818][892]LogWorld: UWorld::CleanupWorld for LVL_SpacerMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.17-19.23.04:818][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.17-19.23.04:820][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.17-19.23.04:825][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.17-19.23.04:848][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.17-19.23.04:848][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.04.17-19.23.04:848][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.04.17-19.23.04:850][892]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.04.17-19.23.04:857][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.04.17-19.23.04:976][893]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.04.17-19.23.06:895][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1357.966064
+[2026.04.17-19.23.07:018][980]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.17-19.23.07:018][980]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1358.068481, Update Interval: 345.279694
+[2026.04.17-19.23.07:339][996]LogSlate: Window 'Message Log' being destroyed
+[2026.04.17-19.23.07:396][996]LogSlate: Window 'Message Log' being destroyed
+[2026.04.17-19.23.12:094][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.17-19.23.12:101][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.17-19.23.12:201][240]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase] ([2] browsable assets)...
+[2026.04.17-19.23.12:243][240]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase.BP_VehicleAdvPawnBase]
+[2026.04.17-19.23.12:243][240]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase]
+[2026.04.17-19.23.12:274][240]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase
+[2026.04.17-19.23.12:274][240]LogSavePackage: Moving '../../../../../../Users/emues/Desktop/spaceracer1/SpaceRacer1/Saved/BP_VehicleAdvPawnBase3B4B190B4AEFC8C5E8B7EA83F08E74A3.tmp' to '../../../../../../Users/emues/Desktop/spaceracer1/SpaceRacer1/Content/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase.uasset'
+[2026.04.17-19.23.12:300][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.876 ms
+[2026.04.17-19.23.12:353][240]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.17-19.23.12:353][240]LogContentValidation: Enabled validators:
+[2026.04.17-19.23.12:353][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.17-19.23.12:353][240]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.17-19.23.12:353][240]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.17-19.23.12:353][240]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.17-19.23.12:353][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.17-19.23.12:353][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.17-19.23.12:353][240]AssetCheck: /Game/VehicleTemplate/Blueprints/BP_VehicleAdvPawnBase Validating asset
+[2026.04.17-19.23.12:380][240]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/emues/Desktop/spaceracer1/SpaceRacer1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.17-19.23.16:016][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
