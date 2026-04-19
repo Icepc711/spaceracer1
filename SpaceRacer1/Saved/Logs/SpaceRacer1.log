@@ -2477,3 +2477,247 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.04.19-02.51.41:385][554]LogEditorActor: Deleted Actor: StaticMeshActor
 [2026.04.19-02.51.41:405][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2026.04.19-02.51.41:408][554]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.04.19-02.52.21:066][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.04.19-02.52.24:178][ 79]LogSlate: Window 'Save Content' being destroyed
+[2026.04.19-02.52.24:197][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.19-02.52.24:378][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.04.19-02.52.24:441][ 79]LogSavePackage: Moving output files for package: /Game/Maps/LVL_SpacerMap
+[2026.04.19-02.52.24:442][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/LVL_SpacerMapD4409157408476B6A7F97694418045E8.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Maps/LVL_SpacerMap.umap'
+[2026.04.19-02.52.24:455][ 79]LogFileHelpers: Saving map 'LVL_SpacerMap' took 0.127
+[2026.04.19-02.52.24:456][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Materials/Main] ([1] browsable assets)...
+[2026.04.19-02.52.24:552][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Space_Station/space_station/Materials/Main.Main]
+[2026.04.19-02.52.24:552][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Materials/Main]
+[2026.04.19-02.52.24:562][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Materials/Main
+[2026.04.19-02.52.24:562][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/Main3D44A61A40B9137B29F3A48CCB7A5765.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Space_Station/space_station/Materials/Main.uasset'
+[2026.04.19-02.52.24:569][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/RED] ([1] browsable assets)...
+[2026.04.19-02.52.24:586][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/RED.RED]
+[2026.04.19-02.52.24:586][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/RED]
+[2026.04.19-02.52.24:589][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/RED
+[2026.04.19-02.52.24:589][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/RED5735B1674B0F90422C672EBECDB2DA48.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/RED.uasset'
+[2026.04.19-02.52.24:592][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/ac] ([1] browsable assets)...
+[2026.04.19-02.52.24:602][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/ac.ac]
+[2026.04.19-02.52.24:602][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/ac]
+[2026.04.19-02.52.24:606][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/ac
+[2026.04.19-02.52.24:606][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/ac8D864CDF4ED665BDA15BCDBD46821AC0.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/ac.uasset'
+[2026.04.19-02.52.24:607][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/dkgy] ([1] browsable assets)...
+[2026.04.19-02.52.24:617][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/dkgy.dkgy]
+[2026.04.19-02.52.24:617][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/dkgy]
+[2026.04.19-02.52.24:621][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/dkgy
+[2026.04.19-02.52.24:621][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/dkgyF9E7D175427C06530EDF36954E8BD7DA.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/dkgy.uasset'
+[2026.04.19-02.52.24:622][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Materials/emitrED] ([1] browsable assets)...
+[2026.04.19-02.52.24:634][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Space_Station/space_station/Materials/emitrED.emitrED]
+[2026.04.19-02.52.24:634][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Materials/emitrED]
+[2026.04.19-02.52.24:637][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Materials/emitrED
+[2026.04.19-02.52.24:637][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/emitrEDC328A6794310FB1654DCC89A1DA8237C.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Space_Station/space_station/Materials/emitrED.uasset'
+[2026.04.19-02.52.24:638][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/gls] ([1] browsable assets)...
+[2026.04.19-02.52.24:649][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/gls.gls]
+[2026.04.19-02.52.24:649][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/gls]
+[2026.04.19-02.52.24:652][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/gls
+[2026.04.19-02.52.24:652][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/gls29AE4211434814BA92C92ABA03868C80.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/gls.uasset'
+[2026.04.19-02.52.24:652][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/holo] ([1] browsable assets)...
+[2026.04.19-02.52.24:664][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/holo.holo]
+[2026.04.19-02.52.24:664][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/holo]
+[2026.04.19-02.52.24:667][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/holo
+[2026.04.19-02.52.24:667][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/holo2D33AE3541B68BAB9D3C72B03124C926.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/holo.uasset'
+[2026.04.19-02.52.24:669][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/lt] ([1] browsable assets)...
+[2026.04.19-02.52.24:679][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/lt.lt]
+[2026.04.19-02.52.24:679][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/lt]
+[2026.04.19-02.52.24:682][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/lt
+[2026.04.19-02.52.24:682][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/lt9574461C45F5199F1751CB954D27F81B.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/lt.uasset'
+[2026.04.19-02.52.24:682][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/ltr] ([1] browsable assets)...
+[2026.04.19-02.52.24:693][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/ltr.ltr]
+[2026.04.19-02.52.24:693][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/ltr]
+[2026.04.19-02.52.24:696][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/ltr
+[2026.04.19-02.52.24:696][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/ltr7282803C49C8FF97B862929692F3B27D.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/ltr.uasset'
+[2026.04.19-02.52.24:697][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/StaticMeshes/obj] ([1] browsable assets)...
+[2026.04.19-02.52.24:712][ 79]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Scifi_building/obj/StaticMeshes/obj.obj]
+[2026.04.19-02.52.24:712][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/StaticMeshes/obj]
+[2026.04.19-02.52.24:727][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/StaticMeshes/obj
+[2026.04.19-02.52.24:727][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/objCAD72A51413A9700D932738FFCE5BF3A.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/StaticMeshes/obj.uasset'
+[2026.04.19-02.52.24:732][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_0] ([1] browsable assets)...
+[2026.04.19-02.52.24:742][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_0.obj_texture_0]
+[2026.04.19-02.52.24:742][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_0]
+[2026.04.19-02.52.24:749][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_0
+[2026.04.19-02.52.24:749][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_0BF7C1E1844702849792EAAA281AC21C9.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_0.uasset'
+[2026.04.19-02.52.24:757][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_1] ([1] browsable assets)...
+[2026.04.19-02.52.24:761][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_1.obj_texture_1]
+[2026.04.19-02.52.24:762][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_1]
+[2026.04.19-02.52.24:768][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_1
+[2026.04.19-02.52.24:768][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_12C92021A4CD9CEB6D6DAA7B4A8A49DEF.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_1.uasset'
+[2026.04.19-02.52.24:769][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_2] ([1] browsable assets)...
+[2026.04.19-02.52.24:772][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_2.obj_texture_2]
+[2026.04.19-02.52.24:772][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_2]
+[2026.04.19-02.52.24:779][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_2
+[2026.04.19-02.52.24:779][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_241C3100F4DC76106CD1FB4A4A6071311.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_2.uasset'
+[2026.04.19-02.52.24:781][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_3] ([1] browsable assets)...
+[2026.04.19-02.52.24:783][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_3.obj_texture_3]
+[2026.04.19-02.52.24:783][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_3]
+[2026.04.19-02.52.24:821][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_3
+[2026.04.19-02.52.24:821][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_3E4EB4B974D8D86C034EEA1B2945A6947.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_3.uasset'
+[2026.04.19-02.52.24:822][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_4] ([1] browsable assets)...
+[2026.04.19-02.52.24:824][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_4.obj_texture_4]
+[2026.04.19-02.52.24:824][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_4]
+[2026.04.19-02.52.24:846][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_4
+[2026.04.19-02.52.24:846][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_43C26FF8D4406378AB80998854E5392EC.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_4.uasset'
+[2026.04.19-02.52.24:848][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_5] ([1] browsable assets)...
+[2026.04.19-02.52.24:850][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_5.obj_texture_5]
+[2026.04.19-02.52.24:850][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_5]
+[2026.04.19-02.52.24:856][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_5
+[2026.04.19-02.52.24:856][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_5FEE1A8F449D7C0FEBEE1BB82C44CA1B1.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_5.uasset'
+[2026.04.19-02.52.24:857][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_6] ([1] browsable assets)...
+[2026.04.19-02.52.24:860][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_6.obj_texture_6]
+[2026.04.19-02.52.24:860][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_6]
+[2026.04.19-02.52.24:870][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_6
+[2026.04.19-02.52.24:870][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_6039A396F4B2F514D1FB3F68627D80378.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_6.uasset'
+[2026.04.19-02.52.24:872][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_7] ([1] browsable assets)...
+[2026.04.19-02.52.24:873][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scifi_building/obj/Textures/obj_texture_7.obj_texture_7]
+[2026.04.19-02.52.24:873][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Textures/obj_texture_7]
+[2026.04.19-02.52.24:890][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Textures/obj_texture_7
+[2026.04.19-02.52.24:890][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/obj_texture_73E78A6544D916676BF59618F4D41BBAB.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Textures/obj_texture_7.uasset'
+[2026.04.19-02.52.24:891][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/StaticMeshes/space_station] ([1] browsable assets)...
+[2026.04.19-02.52.24:912][ 79]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station]
+[2026.04.19-02.52.24:912][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/StaticMeshes/space_station]
+[2026.04.19-02.52.24:948][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/StaticMeshes/space_station
+[2026.04.19-02.52.24:948][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/space_station87DCF7174CB56FA08AACBE8977DE4CEA.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Space_Station/space_station/StaticMeshes/space_station.uasset'
+[2026.04.19-02.52.24:950][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_0] ([1] browsable assets)...
+[2026.04.19-02.52.24:962][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_0.space_station_texture_0]
+[2026.04.19-02.52.24:962][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_0]
+[2026.04.19-02.52.24:991][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_0
+[2026.04.19-02.52.24:992][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/space_station_texture_08B7DE2A143D9AF33A12FEDA441706E28.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Space_Station/space_station/Textures/space_station_texture_0.uasset'
+[2026.04.19-02.52.24:993][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_1] ([1] browsable assets)...
+[2026.04.19-02.52.24:996][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_1.space_station_texture_1]
+[2026.04.19-02.52.24:996][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_1]
+[2026.04.19-02.52.25:057][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_1
+[2026.04.19-02.52.25:057][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/space_station_texture_1222E4EC046F54F055D38BD8BD7AA15D7.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Space_Station/space_station/Textures/space_station_texture_1.uasset'
+[2026.04.19-02.52.25:059][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_2] ([1] browsable assets)...
+[2026.04.19-02.52.25:062][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_2.space_station_texture_2]
+[2026.04.19-02.52.25:062][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_2]
+[2026.04.19-02.52.25:124][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_2
+[2026.04.19-02.52.25:124][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/space_station_texture_22BBBE0AD402A49BA9E014EA937F0847F.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Space_Station/space_station/Textures/space_station_texture_2.uasset'
+[2026.04.19-02.52.25:125][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_3] ([1] browsable assets)...
+[2026.04.19-02.52.25:130][ 79]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_3.space_station_texture_3]
+[2026.04.19-02.52.25:130][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_3]
+[2026.04.19-02.52.25:245][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_3
+[2026.04.19-02.52.25:245][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/space_station_texture_3DF3465EF47DA8B72F5D4DE830BB1E316.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Space_Station/space_station/Textures/space_station_texture_3.uasset'
+[2026.04.19-02.52.25:247][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/suf1] ([1] browsable assets)...
+[2026.04.19-02.52.25:257][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/suf1.suf1]
+[2026.04.19-02.52.25:257][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/suf1]
+[2026.04.19-02.52.25:261][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/suf1
+[2026.04.19-02.52.25:261][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/suf162C18491403BBE9F6DBD88BACCF3A5AF.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/suf1.uasset'
+[2026.04.19-02.52.25:262][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/vent1] ([1] browsable assets)...
+[2026.04.19-02.52.25:275][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/vent1.vent1]
+[2026.04.19-02.52.25:275][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/vent1]
+[2026.04.19-02.52.25:279][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/vent1
+[2026.04.19-02.52.25:279][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/vent1B871A8DD458D04FA9CD46BBD788EA287.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/vent1.uasset'
+[2026.04.19-02.52.25:280][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/w] ([1] browsable assets)...
+[2026.04.19-02.52.25:291][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/w.w]
+[2026.04.19-02.52.25:291][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/w]
+[2026.04.19-02.52.25:295][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/w
+[2026.04.19-02.52.25:295][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/wA17EEB76421FC97FA9F09FAF3F1D2B1A.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/w.uasset'
+[2026.04.19-02.52.25:296][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scifi_building/obj/Materials/window] ([1] browsable assets)...
+[2026.04.19-02.52.25:307][ 79]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scifi_building/obj/Materials/window.window]
+[2026.04.19-02.52.25:307][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scifi_building/obj/Materials/window]
+[2026.04.19-02.52.25:310][ 79]LogSavePackage: Moving output files for package: /Game/Fab/Scifi_building/obj/Materials/window
+[2026.04.19-02.52.25:310][ 79]LogSavePackage: Moving '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/window192433764E7B463DC3AF9E99CD54E62F.tmp' to '../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Content/Fab/Scifi_building/obj/Materials/window.uasset'
+[2026.04.19-02.52.25:323][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec
+[2026.04.19-02.52.25:361][ 79]LogStall: Shutdown...
+[2026.04.19-02.52.25:361][ 79]LogStall: Shutdown complete.
+[2026.04.19-02.52.25:391][ 79]LogSlate: Window 'Fab' being destroyed
+[2026.04.19-02.52.25:393][ 79]LogSlate: Window 'SpaceRacer1 - Unreal Editor' being destroyed
+[2026.04.19-02.52.25:734][ 79]LogContentValidation: Display: Starting to validate 28 assets
+[2026.04.19-02.52.25:735][ 79]LogContentValidation: Enabled validators:
+[2026.04.19-02.52.25:736][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.19-02.52.25:736][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.19-02.52.25:736][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.19-02.52.25:736][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.19-02.52.25:736][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.19-02.52.25:736][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Maps/LVL_SpacerMap Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Space_Station/space_station/Materials/Main Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/RED Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/ac Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/dkgy Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Space_Station/space_station/Materials/emitrED Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/gls Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/holo Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/lt Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/ltr Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/StaticMeshes/obj Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_0 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_1 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_2 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_3 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_4 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_5 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_6 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Textures/obj_texture_7 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Space_Station/space_station/StaticMeshes/space_station Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_0 Validating asset
+[2026.04.19-02.52.25:738][ 79]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_1 Validating asset
+[2026.04.19-02.52.25:739][ 79]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_2 Validating asset
+[2026.04.19-02.52.25:739][ 79]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_3 Validating asset
+[2026.04.19-02.52.25:739][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/suf1 Validating asset
+[2026.04.19-02.52.25:739][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/vent1 Validating asset
+[2026.04.19-02.52.25:739][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/w Validating asset
+[2026.04.19-02.52.25:739][ 79]AssetCheck: /Game/Fab/Scifi_building/obj/Materials/window Validating asset
+[2026.04.19-02.52.25:745][ 79]Cmd: QUIT_EDITOR
+[2026.04.19-02.52.25:745][ 79]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.19-02.52.25:748][ 79]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/iceze/OneDrive/Desktop/spaceracer1/SpaceRacer1/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.19-02.52.25:757][ 80]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.19-02.52.25:758][ 80]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.19-02.52.25:758][ 80]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.19-02.52.25:764][ 80]LogWorld: UWorld::CleanupWorld for LVL_SpacerMap, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.52.25:764][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.52.25:781][ 80]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.19-02.52.25:783][ 80]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.04.19-02.52.25:788][ 80]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.19-02.52.25:804][ 80]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.52.25:804][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.52.25:804][ 80]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.52.25:804][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.52.25:804][ 80]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.52.25:804][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.52.25:806][ 80]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.52.25:806][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.52.25:806][ 80]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.04.19-02.52.25:806][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.19-02.52.25:814][ 80]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.04.19-02.52.25:814][ 80]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.19-02.52.25:819][ 80]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.04.19-02.52.26:702][ 80]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.19-02.52.26:702][ 80]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.19-02.52.26:702][ 80]LogAudio: Display: Audio Device unregistered from world 'LVL_SpacerMap'.
+[2026.04.19-02.52.26:702][ 80]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.19-02.52.26:702][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.04.19-02.52.26:713][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.04.19-02.52.26:766][ 80]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.19-02.52.26:767][ 80]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.19-02.52.26:778][ 80]LogExit: Preparing to exit.
+[2026.04.19-02.52.26:882][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.19-02.52.27:554][ 80]LogEditorDataStorage: Deinitializing
+[2026.04.19-02.52.27:827][ 80]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.19-02.52.27:976][ 80]LogExit: Editor shut down
+[2026.04.19-02.52.27:994][ 80]LogExit: Transaction tracking system shut down
+[2026.04.19-02.52.28:758][ 80]LogExit: Object subsystem successfully closed.
+[2026.04.19-02.52.28:818][ 80]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.19-02.52.29:108][ 80]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/bd081134-6639-462c-ac34-5711fac7aa5d.
+[2026.04.19-02.52.29:114][ 80]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.19-02.52.29:114][ 80]LogSlate: Slate User Destroyed.  User Index 1, Is Virtual User: 0
+[2026.04.19-02.52.29:158][ 80]LogMemoryProfiler: Shutdown
+[2026.04.19-02.52.29:159][ 80]LogNetworkingProfiler: Shutdown
+[2026.04.19-02.52.29:159][ 80]LoadingProfiler: Shutdown
+[2026.04.19-02.52.29:160][ 80]LogTimingProfiler: Shutdown
+[2026.04.19-02.52.29:167][ 80]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.04.19-02.52.29:168][ 80]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.04.19-02.52.29:954][ 80]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.19-02.52.29:961][ 80]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.19-02.52.29:965][ 80]RenderDocPlugin: plugin has been unloaded.
+[2026.04.19-02.52.30:001][ 80]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.19-02.52.30:001][ 80]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEFB85902-4272-EEDC-6DED-BD86CE9FB908%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=b7c9390e45eb0fd1cfbe1cbcc8d46c80%7Ca25979c25b4a463cb3aa870e08e7145c%7C6ae8b483-03c3-41a9-b92e-9f6f8b23d4d3&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.19-02.52.30:595][ 80]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.19-02.52.30:620][ 80]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.19-02.52.30:620][ 80]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.19-02.52.30:620][ 80]LogPakFile: Destroying PakPlatformFile
+[2026.04.19-02.52.31:384][ 80]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.19-02.52.31:447][ 80]LogExit: Exiting.
+[2026.04.19-02.52.31:482][ 80]Log file closed, 04/18/26 22:52:31
